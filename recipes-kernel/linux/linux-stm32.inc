@@ -17,6 +17,5 @@ COMPATIBLE_MACHINE = "(stm32mp15x)"
 KERNEL_VERSION_SANITY_SKIP="1"
 
 SRC_URI  = "git://github.com/STMicroelectronics/linux.git;protocol=https;branch=${SRCBRANCH}"
-SRC_URI += "file://fbcon.c.patch"
 SRC_URI += "file://defconfig"
 

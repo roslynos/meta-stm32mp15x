@@ -16,6 +16,10 @@ branch: same dedicated branch as meta-stm32mp15x
 
 Please see https://github.com/roslynos/stm32-oss for further information.
 
+## Orginal Project 
+
+This is a copy of the orginal project found at https://github.com/embetrix/meta-stm32mp15x/
+
 ## Licenses
 
 An image is made of many components and it’s hard to describe the full details of all the licenses that are in use. When building the system from sources with OpenEmbedded, you are responsible for understanding the licenses used by each package.
